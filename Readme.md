@@ -34,7 +34,7 @@ PixelTab is a script for a bot designed for the PixelVerse Project. The bot inte
     ]
     ```
    Replace `YOUR_INIT_DATA`, `YOUR_SECRET`, `YOUR_TELEGRAM_ID`, and `YOUR_USERNAME` with the appropriate values for your accounts.
-4. Run the script using `node script.js`.
+4. Run the script using `node start.js`.
 
 ## Example
 
