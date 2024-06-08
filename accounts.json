@@ -1,0 +1,14 @@
+[
+  {
+    "username": "Winnodexx",
+    "tgId": "5218429",
+    "initData": "query_id=AAH66Qo3AgAAAPrpCjeNjvWD&user=%7B%22id%22%3A5218429434%2C%22first_name%22%3A%22Winnode%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Winnodexx%22%2C%22language_code%22%3A%22en%22%2C%22is_premium%22%3Atrue%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717821603&hash=c965003c5120078fe7b7e91cfe4695b2cd6762a241265fcde1913388ba48dafa",
+    "secret": "8e773af2cce6ef485aa0c1add20d8b706636f82e9e2bbdf5d24e3e29dbf29115"
+  },
+    {
+    "username": "annstopnode",
+    "tgId": "5279581056",
+    "initData": "query_id=AAGAA7A6AgAAAIADsDq_dZ69&user=%7B%22id%22%3A5279581056%2C%22first_name%22%3A%22anstopnode%22%2C%22last_name%22%3A%2242%22%2C%22username%22%3A%22annstopnode%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717824046&hash=37a8d8875c9d0c202837325dd4f6aea1b12f5d24969f78eccdb14837d82959fc",
+    "secret": "75844d2ac11a76ddba504fef7e49a6574ff92c4dfecf50459f3a5474a43aa114"
+  }
+]
