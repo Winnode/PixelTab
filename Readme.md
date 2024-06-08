@@ -1,6 +1,6 @@
-# Winnode Project Bot
+# PixelTab
 
-This is a script for a bot designed for the Winnode Project. The bot interacts with the Winnode Project API to retrieve user data, mining progress, and claim mining rewards.
+PixelTab is a script for a bot designed for the PixelVerse Project. The bot interacts with the PixelVerse Project API to retrieve user data, mining progress, and claim mining rewards.
 
 ## Features
 - Fetch user data including username, Telegram ID, and clicks count.
@@ -12,7 +12,10 @@ This is a script for a bot designed for the Winnode Project. The bot interacts w
 - fs: For reading the accounts.json file.
 
 ## Setup
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine:
+    ```
+    git clone https://github.com/Winnode/PixelTab.git
+    ```
 2. Install dependencies using `npm install`.
 3. Make sure you have an `accounts.json` file in the same directory as the script. This file should contain an array of account objects with the following structure:
     ```json
@@ -29,10 +32,10 @@ This is a script for a bot designed for the Winnode Project. The bot interacts w
     ]
     ```
    Replace `YOUR_INIT_DATA`, `YOUR_SECRET`, `YOUR_TELEGRAM_ID`, and `YOUR_USERNAME` with the appropriate values for your accounts.
-4. Run the script using `node start.js`.
+4. Run the script using `node script.js`.
 
 ## Notes
-- Make sure your accounts have the necessary permissions to interact with the Winnode Project API.
+- Make sure your accounts have the necessary permissions to interact with the PixelVerse Project API.
 - The script will continuously fetch user data and claim mining rewards for each account in the `accounts.json` file.
 
 ## Support
