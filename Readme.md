@@ -2,6 +2,8 @@
 
 PixelTab is a script for a bot designed for the PixelVerse Project. The bot interacts with the PixelVerse Project API to retrieve user data, mining progress, and claim mining rewards.
 
+![Run](https://github.com/Winnode/PixelTab/blob/main/run.png)
+
 ## Features
 - Fetch user data including username, Telegram ID, and clicks count.
 - Retrieve mining progress data such as max available and currently available.
