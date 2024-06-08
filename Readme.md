@@ -34,6 +34,10 @@ PixelTab is a script for a bot designed for the PixelVerse Project. The bot inte
    Replace `YOUR_INIT_DATA`, `YOUR_SECRET`, `YOUR_TELEGRAM_ID`, and `YOUR_USERNAME` with the appropriate values for your accounts.
 4. Run the script using `node script.js`.
 
+## Example
+
+![Example](https://github.com/Winnode/PixelTab/blob/main/ex.png)
+
 ## Notes
 - Make sure your accounts have the necessary permissions to interact with the PixelVerse Project API.
 - The script will continuously fetch user data and claim mining rewards for each account in the `accounts.json` file.
